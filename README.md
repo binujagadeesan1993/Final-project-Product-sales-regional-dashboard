@@ -25,20 +25,13 @@ Overall, the business generated total sales of approximately $4.38 million acros
 
 4.	Key Performance Indicators (KPIs)
 
-$4.38M
 
-TOTAL SALES	1,500
-
-TOTAL ORDERS	$2,919.99
-
-AVG ORDER VALUE
-24.8%
-
-RETURN RATE	6.04 days
-
-AVG DELIVERY DAYS	$41,260.94
-
-TOTAL SHIPPING COST
+Total customer -1,500
+TOTAL SALES	-$4.38M
+AVG ORDER VALUE -$2,919.99
+RETURN RATE	24.8%
+AVG DELIVERY DAYS	6.04 days
+TOTAL SHIPPING COST $41,260.94
 
 
 These six KPI cards form the control-panel of the dashboard:
